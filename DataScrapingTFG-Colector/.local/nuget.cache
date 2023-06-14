@@ -1,0 +1,163 @@
+{
+  "version": 2,
+  "dgSpecHash": "r3Ugx7qwwIFTSncE1gTLDf7L95TRWsARBqZeLQhyLxLxHP79I0eL5lFh1oYUzxoE5mRXEuYZ4HiVmuEPfME3GQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Sergio\\Documents\\UiPath\\DataScrapingTFG-Colector\\.local\\",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sergio\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\aforge.math\\2.2.5\\aforge.math.2.2.5.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\avalonedit\\5.0.3\\avalonedit.5.0.3.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\azure.core\\1.17.0\\azure.core.1.17.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\azure.identity\\1.4.1\\azure.identity.1.4.1.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\csvhelper\\2.13.5\\csvhelper.2.13.5.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\documentformat.openxml\\2.5.0\\documentformat.openxml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1\\extended.wpf.toolkit.3.8.1.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\humanizer.core\\2.4.2\\humanizer.core.2.4.2.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\microsoft.aspnet.signalr.client.2.4.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\microsoft.aspnetcore.connections.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6\\microsoft.aspnetcore.http.connections.client.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6\\microsoft.aspnetcore.http.connections.common.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\microsoft.aspnetcore.http.features.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.6\\microsoft.aspnetcore.signalr.client.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.6\\microsoft.aspnetcore.signalr.client.core.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.6\\microsoft.aspnetcore.signalr.common.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.6\\microsoft.aspnetcore.signalr.protocols.json.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.data.sqlclient\\4.1.0\\microsoft.data.sqlclient.4.1.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\microsoft.extensions.configuration.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\microsoft.extensions.configuration.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\microsoft.extensions.configuration.binder.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\microsoft.extensions.dependencyinjection.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\microsoft.extensions.logging.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.identity.client\\4.30.0\\microsoft.identity.client.4.30.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.18.4\\microsoft.identity.client.extensions.msal.2.18.4.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\microsoft.identitymodel.jsonwebtokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.12.2\\microsoft.identitymodel.protocols.6.12.2.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.12.2\\microsoft.identitymodel.protocols.openidconnect.6.12.2.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\microsoft.rest.clientruntime.2.3.21.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\7.10.6071\\microsoft.visualstudio.ole.interop.7.10.6071.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\nlog\\4.5.11\\nlog.4.5.11.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\npoi\\2.4.1\\npoi.2.4.1.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\oracle.manageddataaccess\\19.11.0\\oracle.manageddataaccess.19.11.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\sharpziplib\\1.2.0\\sharpziplib.1.2.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\system.identitymodel.tokens.jwt.6.12.2.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.io.abstractions\\3.0.10\\system.io.abstractions.3.0.10.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.resources.extensions\\5.0.0\\system.resources.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.1\\system.security.cryptography.algorithms.4.3.1.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.threading.tasks.dataflow\\4.10.0\\system.threading.tasks.dataflow.4.10.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\uipath\\20.10.7641.24102\\uipath.20.10.7641.24102.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\uipath.database.activities\\1.7.1\\uipath.database.activities.1.7.1.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\uipath.excel.activities\\2.9.5\\uipath.excel.activities.2.9.5.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\uipath.ocr.activities\\2.4.1\\uipath.ocr.activities.2.4.1.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\uipath.ocr.contracts\\2.7.1\\uipath.ocr.contracts.2.7.1.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\uipath.platform\\20.10.4\\uipath.platform.20.10.4.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\uipath.system.activities\\20.10.4\\uipath.system.activities.20.10.4.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\uipath.telemetry.client\\1.2.20\\uipath.telemetry.client.1.2.20.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9\\uipath.uiautomation.activities.20.10.9.nupkg.sha512",
+    "C:\\Users\\Sergio\\.nuget\\packages\\uipath.vision\\2.2.0\\uipath.vision.2.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Sergio\\Documents\\UiPath\\DataScrapingTFG-Colector\\.local",
+      "message": "Microsoft.Data.SqlClient 4.1.0 depends on Azure.Identity (>= 1.3.0) but Azure.Identity 1.3.0 was not found. An approximate best match of Azure.Identity 1.4.1 was resolved.",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Sergio\\Documents\\UiPath\\DataScrapingTFG-Colector\\.local",
+      "message": "Microsoft.Data.SqlClient 4.1.0 depends on Microsoft.Identity.Client (>= 4.22.0) but Microsoft.Identity.Client 4.22.0 was not found. An approximate best match of Microsoft.Identity.Client 4.30.0 was resolved.",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Sergio\\Documents\\UiPath\\DataScrapingTFG-Colector\\.local",
+      "message": "Microsoft.Data.SqlClient 4.1.0 depends on Microsoft.IdentityModel.JsonWebTokens (>= 6.8.0) but Microsoft.IdentityModel.JsonWebTokens 6.8.0 was not found. An approximate best match of Microsoft.IdentityModel.JsonWebTokens 6.12.2 was resolved.",
+      "libraryId": "Microsoft.IdentityModel.JsonWebTokens",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Sergio\\Documents\\UiPath\\DataScrapingTFG-Colector\\.local",
+      "message": "Microsoft.Data.SqlClient 4.1.0 depends on Microsoft.IdentityModel.Protocols.OpenIdConnect (>= 6.8.0) but Microsoft.IdentityModel.Protocols.OpenIdConnect 6.8.0 was not found. An approximate best match of Microsoft.IdentityModel.Protocols.OpenIdConnect 6.12.2 was resolved.",
+      "libraryId": "Microsoft.IdentityModel.Protocols.OpenIdConnect",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "filePath": "C:\\Users\\Sergio\\Documents\\UiPath\\DataScrapingTFG-Colector\\.local",
+      "message": "Unable to find package Microsoft.Data.SqlClient.SNI. No packages exist with this id in source(s): C:\\Users\\Sergio\\AppData\\Local\\Programs\\UiPath\\Studio\\Packages, https://gallery.uipath.com/api/v2, https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json, https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json",
+      "libraryId": "Microsoft.Data.SqlClient.SNI",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Sergio\\Documents\\UiPath\\DataScrapingTFG-Colector\\.local",
+      "message": "Detected package downgrade: Microsoft.Identity.Client from 4.30.1 to 4.30.0. Reference the package directly from the project to select a different version. \r\n DataScrapingTFG-Colector -> UiPath.Database.Activities 1.7.1 -> Microsoft.Data.SqlClient 4.1.0 -> Azure.Identity 1.4.1 -> Microsoft.Identity.Client (>= 4.30.1) \r\n DataScrapingTFG-Colector -> UiPath.Database.Activities 1.7.1 -> Microsoft.Data.SqlClient 4.1.0 -> Microsoft.Identity.Client (>= 4.22.0)",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win10-x64"
+      ]
+    }
+  ]
+}
